@@ -26,6 +26,7 @@
 		41C91ECC2CAE866B003A33FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41C91ECA2CAE866B003A33FF /* LaunchScreen.storyboard */; };
 		868840692DAF7936009FA037 /* FollowerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 868840682DAF7936009FA037 /* FollowerCell.swift */; };
 		8688406B2DAF79DF009FA037 /* GFAvatarImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8688406A2DAF79DF009FA037 /* GFAvatarImageView.swift */; };
+		86DA26372DBF64C1003DDDA5 /* UIHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86DA26362DBF64C1003DDDA5 /* UIHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		41C91ECD2CAE866B003A33FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		868840682DAF7936009FA037 /* FollowerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowerCell.swift; sourceTree = "<group>"; };
 		8688406A2DAF79DF009FA037 /* GFAvatarImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFAvatarImageView.swift; sourceTree = "<group>"; };
+		86DA26362DBF64C1003DDDA5 /* UIHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				4111910A2CB3C3A1003976AB /* ErrorMessage.swift */,
+				86DA26362DBF64C1003DDDA5 /* UIHelper.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				4117ECB22CB29C74000E04E7 /* GFTextField.swift in Sources */,
 				41C91EC02CAE866A003A33FF /* AppDelegate.swift in Sources */,
 				4117ECBC2CB2C02D000E04E7 /* UIViewController+Ext.swift in Sources */,
+				86DA26372DBF64C1003DDDA5 /* UIHelper.swift in Sources */,
 				8688406B2DAF79DF009FA037 /* GFAvatarImageView.swift in Sources */,
 				4117ECB42CB2AE36000E04E7 /* FollowersVC.swift in Sources */,
 				4117ECB02CB299CD000E04E7 /* GFButton.swift in Sources */,
